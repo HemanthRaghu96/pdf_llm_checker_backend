@@ -40,3 +40,14 @@ A full-stack web application that checks PDF documents against user-defined rule
 ```bash
 git clone <your-repo-url>
 cd pdf-llm-checker
+
+## 📸 Application Screenshots
+
+### Main Interface
+![Main Interface](./images/Screenshot%202025-11-22%20005123.png)
+
+### Upload Section
+![Upload Section](./images/Screenshot%202025-11-22%20005400.png)
+
+### Results Table
+![Results Table](./images/Screenshot%202025-11-22%20005420.png)
